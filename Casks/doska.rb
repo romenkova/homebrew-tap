@@ -1,6 +1,6 @@
 cask "doska" do
-  version "0.24.0"
-  sha256 "d4035f7db66260ad7116f09ed969dc6702e45a80fdfa2c01a6e9452fdc8c5042"
+  version "0.25.0"
+  sha256 "a8dbe9cc8eba534bdbc8650379abc21a7162b63629f0bc5bd4ea119f87159f0d"
 
   url "https://github.com/romenkova/doska/releases/download/v#{version}/Doska_#{version}_universal.dmg"
   name "Doska"
